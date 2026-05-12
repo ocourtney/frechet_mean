@@ -1,0 +1,13 @@
+# Core scientific Python stack
+numpy>=1.23
+scipy>=1.9
+networkx>=2.8
+pandas>=1.5
+matplotlib>=3.6
+
+# Graph comparison utilities used by the project modules
+netcomp>=0.2
+
+# Notebook support
+jupyter>=1.0
+ipykernel>=6.0

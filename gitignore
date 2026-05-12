@@ -1,0 +1,27 @@
+# Python caches and build artifacts
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Local data files for the primary-school contact network notebook
+# Keep raw third-party data out of the repository unless redistribution is permitted.
+primaryschool.csv
+metadata_primaryschool.txt
+data/
+
+# Generated figures / outputs
+figures/
+outputs/
+*.png
+*.pdf
+*.svg
